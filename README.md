@@ -42,7 +42,7 @@ The dataset used in this analysis contains the following columns:
 
 ## Installation
 
-To run the analysis locally, ensure you have Python installed along with the following packages:
+To run the analysis locally, ensure you have microsoft excel and Python installed along with the following packages:
 - pandas
 - matplotlib
 - seaborn
@@ -65,14 +65,11 @@ The visualizations included in this analysis are essential for understanding dif
 - Heatmaps for correlation analysis
 - Pie charts for payment method distribution
 
+  Dashboard was created using excel
+
 ## Conclusion
 
 This analysis provides valuable insights into the sales performance, product profitability, and customer preferences. The visualizations help identify key areas for improvement and potential strategies for enhancing sales and customer satisfaction.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request.
-
 
 
 
